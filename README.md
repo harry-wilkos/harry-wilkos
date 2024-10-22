@@ -1,4 +1,4 @@
-<h1 align="center">Harry WIlkinson</h1>
+<h1 align="center">Harry Wilkinson</h1>
 
 ###
 
